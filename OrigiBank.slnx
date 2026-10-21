@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/OrigiBank.Api/OrigiBank.Api.csproj" />
+    <Project Path="src/OrigiBank.Application/OrigiBank.Application.csproj" />
+    <Project Path="src/OrigiBank.Domain/OrigiBank.Domain.csproj" />
+    <Project Path="src/OrigiBank.Infrastructure/OrigiBank.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/OrigiBank.Tests/OrigiBank.Tests.csproj" />
+  </Folder>
+</Solution>
